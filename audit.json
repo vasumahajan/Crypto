@@ -1,0 +1,21 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1696520784234,
+            "name": "/Users/vasumahajan/Desktop/Projects/Crypto/logs/pinoApp-20231005.log",
+            "hash": "04cebd8f39ace0560921945801498d90"
+        },
+        {
+            "date": 1696525207974,
+            "name": "/Users/vasumahajan/Desktop/Projects/Crypto/logs/pinoApp-20231006.log",
+            "hash": "8c53fc16dd92a0236b41a9a9b29990b7"
+        }
+    ]
+}
